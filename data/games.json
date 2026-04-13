@@ -1,0 +1,132 @@
+{
+  "updated_at": "2026-04-13T05:29:51.951489+00:00",
+  "site_status": "public-beta",
+  "games": [
+    {
+      "slug": "outerplane",
+      "name": "Outerplane",
+      "status": "automated",
+      "official_update": {
+        "title": "[Update] 3/12 Patch Notes (3/12 08:40 Added) &#8211; Outerplane",
+        "summary": "Latest official patch note includes new hero Eris and related content updates.",
+        "links": [
+          {
+            "label": "Patch notes",
+            "url": "https://annoucements.outerplane.vagames.co.kr/2026/03/10/310pn/"
+          },
+          {
+            "label": "Roadmap",
+            "url": "https://annoucements.outerplane.vagames.co.kr/2026/03/11/outerplane-2026-first-half-update-roadmap/"
+          }
+        ]
+      },
+      "community_verdict": "Use roadmap reveals to plan pulls; saving may be smarter than blind pulling.",
+      "source_type": "official + community"
+    },
+    {
+      "slug": "blue-archive",
+      "name": "Blue Archive",
+      "status": "semi-auto",
+      "official_update": {
+        "title": "News source slot ready for global update posts",
+        "summary": "Prepared for maintenance, banner, and event updates using public news coverage and patch examples.",
+        "links": [
+          {
+            "label": "News source",
+            "url": "https://bluearchive.gg/news/"
+          },
+          {
+            "label": "Patch example",
+            "url": "https://steamcommunity.com/app/3557620/eventcomments/524225948489500026/"
+          }
+        ]
+      },
+      "community_verdict": "Best for short notes like raid specialist, fest priority, or low-value banner.",
+      "source_type": "official-adjacent + community"
+    },
+    {
+      "slug": "starseed",
+      "name": "Starseed",
+      "status": "automated",
+      "official_update": {
+        "title": "STARSEED: Asnia Trigger",
+        "summary": "Official patch-note board fetched successfully.",
+        "links": [
+          {
+            "label": "Notice board",
+            "url": "https://community.withhive.com/starseed_gb/en/board/26"
+          },
+          {
+            "label": "Board root",
+            "url": "https://community.withhive.com/starseed_gb"
+          }
+        ]
+      },
+      "community_verdict": "Good for quick value labels like high account value or wait for raid testing.",
+      "source_type": "official + community"
+    },
+    {
+      "slug": "eversoul",
+      "name": "Eversoul",
+      "status": "automated",
+      "official_update": {
+        "title": "[Notice] eversoul",
+        "summary": "Official notice list fetched successfully.",
+        "links": [
+          {
+            "label": "Notice portal",
+            "url": "https://kakaogames.oqupie.com/portals/2470"
+          },
+          {
+            "label": "Notice list",
+            "url": "https://kakaogames.oqupie.com/portals/2152/customer-news/?news_type=notice"
+          }
+        ]
+      },
+      "community_verdict": "Useful for compact tags like boss-value pick, arena niche, or safe skip.",
+      "source_type": "official + community"
+    },
+    {
+      "slug": "dragon-traveler",
+      "name": "Dragon Traveler",
+      "status": "manual-review",
+      "official_update": {
+        "title": "Launch coverage and store page used as starter sources",
+        "summary": "Public release coverage and store pages are usable until a stronger recurring official feed is confirmed.",
+        "links": [
+          {
+            "label": "Release coverage",
+            "url": "https://www.rpgsite.net/news/19343-dragon-traveler-now-available-for-free-on-android-ios-pc"
+          },
+          {
+            "label": "Store page",
+            "url": "https://store.steampowered.com/app/4104440/Dragon_Traveler/"
+          }
+        ]
+      },
+      "community_verdict": "Start with manual notes until source cadence becomes clear.",
+      "source_type": "public news + community"
+    },
+    {
+      "slug": "star-savior",
+      "name": "Star Savior",
+      "status": "manual-review",
+      "official_update": {
+        "title": "News and official social references prepared",
+        "summary": "Launch with news coverage and official social references while structured sources are tested.",
+        "links": [
+          {
+            "label": "News coverage",
+            "url": "https://game8.co/articles/latest/star-savior-news"
+          },
+          {
+            "label": "Official X",
+            "url": "https://x.com/StarSavior_EN"
+          }
+        ]
+      },
+      "community_verdict": "Keep verdicts manual and short at first, then improve with better source consistency.",
+      "source_type": "public news + social + community"
+    }
+  ]
+}
